@@ -1,0 +1,31 @@
+INFO    2020-06-05 21:09:45,040 [main] com.ui.base.BaseTest  - Configuration File Loaded : G:\Nuri\nuri-workspace4\selenium-ui-testng-extentreport/src/test/resources/properties/config.properties
+INFO    2020-06-05 21:09:45,048 [main] com.ui.base.BaseTest  - Getting Browser from Config
+INFO    2020-06-05 21:09:45,048 [main] com.ui.base.BaseTest  - Getting platform from Config
+INFO    2020-06-05 21:09:45,048 [main] com.ui.base.BaseTest  - Getting version from Config
+INFO    2020-06-05 21:09:45,048 [main] com.ui.base.BaseTest  - Using Browser Profile : chrome
+INFO    2020-06-05 21:09:45,049 [main] com.ui.base.BaseTest  - Loading Chromedriver : G:\Nuri\nuri-workspace4\selenium-ui-testng-extentreport/src/test/resources/executables/chromedriver.exe
+INFO    2020-06-05 21:09:48,485 [main] com.ui.base.BaseTest  - Driver Initialized
+INFO    2020-06-05 21:09:49,637 [main] com.ui.base.BaseTest  - Slack Enabled? No
+INFO    2020-06-05 21:09:49,637 [main] com.ui.base.BaseTest  - Story Mode Config: 1
+INFO    2020-06-05 21:09:49,637 [main] com.ui.base.BaseTest  - TimeOut Pages : 30 Elements: 10
+INFO    2020-06-05 21:09:56,445 [main] com.ui.base.BaseTest  - Tear Down Completed
+INFO    2020-06-05 21:09:56,446 [main] com.ui.base.BaseTest  - Getting Browser from Config
+INFO    2020-06-05 21:09:56,446 [main] com.ui.base.BaseTest  - Getting platform from Config
+INFO    2020-06-05 21:09:56,446 [main] com.ui.base.BaseTest  - Getting version from Config
+INFO    2020-06-05 21:09:56,447 [main] com.ui.base.BaseTest  - Using Browser Profile : chrome
+INFO    2020-06-05 21:09:56,447 [main] com.ui.base.BaseTest  - Loading Chromedriver : G:\Nuri\nuri-workspace4\selenium-ui-testng-extentreport/src/test/resources/executables/chromedriver.exe
+INFO    2020-06-05 21:09:58,699 [main] com.ui.base.BaseTest  - Driver Initialized
+INFO    2020-06-05 21:09:59,833 [main] com.ui.base.BaseTest  - Slack Enabled? No
+INFO    2020-06-05 21:09:59,833 [main] com.ui.base.BaseTest  - Story Mode Config: 1
+INFO    2020-06-05 21:09:59,833 [main] com.ui.base.BaseTest  - TimeOut Pages : 30 Elements: 10
+INFO    2020-06-05 21:10:05,757 [main] com.ui.base.BaseTest  - Tear Down Completed
+INFO    2020-06-05 21:10:05,757 [main] com.ui.base.BaseTest  - Getting Browser from Config
+INFO    2020-06-05 21:10:05,758 [main] com.ui.base.BaseTest  - Getting platform from Config
+INFO    2020-06-05 21:10:05,758 [main] com.ui.base.BaseTest  - Getting version from Config
+INFO    2020-06-05 21:10:05,758 [main] com.ui.base.BaseTest  - Using Browser Profile : chrome
+INFO    2020-06-05 21:10:05,758 [main] com.ui.base.BaseTest  - Loading Chromedriver : G:\Nuri\nuri-workspace4\selenium-ui-testng-extentreport/src/test/resources/executables/chromedriver.exe
+INFO    2020-06-05 21:10:08,036 [main] com.ui.base.BaseTest  - Driver Initialized
+INFO    2020-06-05 21:10:09,172 [main] com.ui.base.BaseTest  - Slack Enabled? No
+INFO    2020-06-05 21:10:09,172 [main] com.ui.base.BaseTest  - Story Mode Config: 1
+INFO    2020-06-05 21:10:09,172 [main] com.ui.base.BaseTest  - TimeOut Pages : 30 Elements: 10
+INFO    2020-06-05 21:10:17,687 [main] com.ui.base.BaseTest  - Tear Down Completed
