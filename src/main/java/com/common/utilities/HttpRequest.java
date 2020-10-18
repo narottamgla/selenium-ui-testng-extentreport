@@ -13,11 +13,6 @@ import java.util.List;
 import java.util.Map;
 
 
-/**
-* Collection of functions to send HTTP requests
-* See also: QuartetApi.java
-*
-*/
 public class HttpRequest {
 
 	private static HttpURLConnection httpConn;
