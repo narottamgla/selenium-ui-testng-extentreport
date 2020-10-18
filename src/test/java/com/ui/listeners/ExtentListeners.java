@@ -4,12 +4,6 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.Date;
 
-/*
- * Copyright (C) Quartet Health, Inc - All Rights Reserved
- * Unauthorized copying of this file, via any medium is strictly prohibited
- * Proprietary and confidential
- *-*-**/
-
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
